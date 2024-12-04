@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="History">
+    <option name="requestHistoryStates">
+      <list>
+        <requestHistoryState>
+          <option name="dateTime" value="1733033801902" />
+          <option name="id" value="f4119918-b0c9-4eb8-8067-95fabd35e223" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  &quot;assets&quot;: [&#10;    {&#10;      &quot;name&quot;: &quot;AMZN&quot;&#10;    },&#10;    {&#10;      &quot;name&quot;: &quot;TSLA&quot;&#10;    }&#10;  ]&#10;}&#10;" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="2355a442-1c52-4aa2-b02e-1df93f18e940" />
+              <option name="method" value="PUT" />
+              <option name="name" value="Draft" />
+              <option name="queryParams">
+                <list>
+                  <queryParamState>
+                    <option name="disabled" value="true" />
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </queryParamState>
+                </list>
+              </option>
+              <option name="url" value="http://localhost:8888/pg/account/watchlist/100 " />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="code" value="204" />
+              <option name="contentType" value="application/octet-stream" />
+              <option name="id" value="f4119918-b0c9-4eb8-8067-95fabd35e223" />
+              <option name="message" value="No Content" />
+              <option name="time" value="464" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1733033874235" />
+          <option name="id" value="c23ce91f-a4bd-428c-a595-59b45de7a151" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  &quot;assets&quot;: [&#10;    {&#10;      &quot;name&quot;: &quot;AMZN&quot;&#10;    },&#10;    {&#10;      &quot;name&quot;: &quot;TSLA&quot;&#10;    }&#10;  ,&#10;    {&#10;      &quot;name&quot;: &quot;NFLX&quot;&#10;    }&#10;  ]&#10;}&#10;" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="2355a442-1c52-4aa2-b02e-1df93f18e940" />
+              <option name="method" value="PUT" />
+              <option name="name" value="Draft" />
+              <option name="queryParams">
+                <list>
+                  <queryParamState>
+                    <option name="disabled" value="true" />
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </queryParamState>
+                </list>
+              </option>
+              <option name="url" value="http://localhost:8888/pg/account/watchlist/100 " />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="eyJtZXNzYWdlIjoiRmFpbGVkIHRvIGluc2VydCBpbnRvIHdhdGNoTGlzdCIsInBhdGgiOiIvcGcvYWNjb3VudC93YXRjaGxpc3QvMTAwJTIwIn0=" />
+              <option name="bodyString" value="{&quot;message&quot;:&quot;Failed to insert into watchList&quot;,&quot;path&quot;:&quot;/pg/account/watchlist/100%20&quot;}" />
+              <option name="code" value="500" />
+              <option name="contentType" value="text/plain" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="content-length" />
+                    <option name="value" value="83" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="c23ce91f-a4bd-428c-a595-59b45de7a151" />
+              <option name="message" value="Internal Server Error" />
+              <option name="prettyResponseType" value="TEXT" />
+              <option name="rawBodyString" value="{&quot;message&quot;:&quot;Failed to insert into watchList&quot;,&quot;path&quot;:&quot;/pg/account/watchlist/100%20&quot;}" />
+              <option name="size" value="83" />
+              <option name="time" value="20" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1733033976673" />
+          <option name="id" value="2ebb3caa-7986-46f7-b224-1afe3bcf5fec" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  &quot;assets&quot;: [&#10;    {&#10;      &quot;name&quot;: &quot;AMZN&quot;&#10;    },&#10;    {&#10;      &quot;name&quot;: &quot;TSLA&quot;&#10;    }&#10;  ,&#10;    {&#10;      &quot;name&quot;: &quot;NFLX&quot;&#10;    }&#10;  ]&#10;}&#10;" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="2355a442-1c52-4aa2-b02e-1df93f18e940" />
+              <option name="method" value="PUT" />
+              <option name="name" value="Draft" />
+              <option name="queryParams">
+                <list>
+                  <queryParamState>
+                    <option name="disabled" value="true" />
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </queryParamState>
+                </list>
+              </option>
+              <option name="url" value="http://localhost:8888/pg/account/watchlist/100 " />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="code" value="204" />
+              <option name="contentType" value="application/octet-stream" />
+              <option name="id" value="2ebb3caa-7986-46f7-b224-1afe3bcf5fec" />
+              <option name="message" value="No Content" />
+              <option name="time" value="435" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1733034011053" />
+          <option name="id" value="fbd44583-02df-435d-8b2f-616267b9f44e" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  &quot;assets&quot;: [&#10;    {&#10;      &quot;name&quot;: &quot;AMZN&quot;&#10;    },&#10;    {&#10;      &quot;name&quot;: &quot;TSLA&quot;&#10;    }&#10;  ]&#10;}&#10;" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="2355a442-1c52-4aa2-b02e-1df93f18e940" />
+              <option name="method" value="PUT" />
+              <option name="name" value="Draft" />
+              <option name="queryParams">
+                <list>
+                  <queryParamState>
+                    <option name="disabled" value="true" />
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </queryParamState>
+                </list>
+              </option>
+              <option name="url" value="http://localhost:8888/pg/account/watchlist/100 " />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="code" value="204" />
+              <option name="contentType" value="application/octet-stream" />
+              <option name="id" value="fbd44583-02df-435d-8b2f-616267b9f44e" />
+              <option name="message" value="No Content" />
+              <option name="time" value="9" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1733035151382" />
+          <option name="id" value="ad4df01c-043f-437d-82a6-a9d779a8606d" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  &quot;assets&quot;: [&#10;    {&#10;      &quot;name&quot;: &quot;AMZN&quot;&#10;    },&#10;    {&#10;      &quot;name&quot;: &quot;TSLA&quot;&#10;    }&#10;  ]&#10;}&#10;" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="2355a442-1c52-4aa2-b02e-1df93f18e940" />
+              <option name="method" value="PUT" />
+              <option name="name" value="Draft" />
+              <option name="queryParams">
+                <list>
+                  <queryParamState>
+                    <option name="disabled" value="true" />
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </queryParamState>
+                </list>
+              </option>
+              <option name="url" value="http://localhost:8888/pg/account/watchlist/100 " />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="code" value="204" />
+              <option name="contentType" value="application/octet-stream" />
+              <option name="id" value="ad4df01c-043f-437d-82a6-a9d779a8606d" />
+              <option name="message" value="No Content" />
+              <option name="time" value="488" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1733035218896" />
+          <option name="id" value="2bf60e52-c5cc-412e-b6c3-17796781bda1" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="&#10;&#10;" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="disabledAutoGeneratedHeaders">
+                <list>
+                  <option value="Content-Type" />
+                </list>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="disabled" value="true" />
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="2355a442-1c52-4aa2-b02e-1df93f18e940" />
+              <option name="method" value="DELETE" />
+              <option name="name" value="Draft" />
+              <option name="queryParams">
+                <list>
+                  <queryParamState>
+                    <option name="disabled" value="true" />
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </queryParamState>
+                </list>
+              </option>
+              <option name="url" value="http://localhost:8888/pg/account/watchlist/100 " />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="code" value="204" />
+              <option name="contentType" value="application/octet-stream" />
+              <option name="id" value="2bf60e52-c5cc-412e-b6c3-17796781bda1" />
+              <option name="message" value="No Content" />
+              <option name="time" value="15" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1733035399209" />
+          <option name="id" value="6fc2e02a-a4dd-46c0-8fce-ad9acc780b89" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="&#10;&#10;" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="disabledAutoGeneratedHeaders">
+                <list>
+                  <option value="Content-Type" />
+                </list>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="disabled" value="true" />
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="2355a442-1c52-4aa2-b02e-1df93f18e940" />
+              <option name="method" value="DELETE" />
+              <option name="name" value="Draft" />
+              <option name="queryParams">
+                <list>
+                  <queryParamState>
+                    <option name="disabled" value="true" />
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </queryParamState>
+                </list>
+              </option>
+              <option name="url" value="http://localhost:8888/pg/account/watchlist/100 " />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="code" value="204" />
+              <option name="contentType" value="application/octet-stream" />
+              <option name="id" value="6fc2e02a-a4dd-46c0-8fce-ad9acc780b89" />
+              <option name="message" value="No Content" />
+              <option name="time" value="78" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1733045388709" />
+          <option name="id" value="2163c14c-4cb0-4856-ab52-b02279a37df5" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  &quot;assets&quot;: [&#10;    {&#10;      &quot;name&quot;: &quot;AMZN&quot;&#10;    },&#10;    {&#10;      &quot;name&quot;: &quot;TSLA&quot;&#10;    }&#10;  ]&#10;}&#10;&#10;" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="disabledAutoGeneratedHeaders">
+                <list>
+                  <option value="Content-Type" />
+                </list>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="2355a442-1c52-4aa2-b02e-1df93f18e940" />
+              <option name="method" value="PUT" />
+              <option name="name" value="Draft" />
+              <option name="queryParams">
+                <list>
+                  <queryParamState>
+                    <option name="disabled" value="true" />
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </queryParamState>
+                </list>
+              </option>
+              <option name="url" value="http://localhost:8888/pg/account/watchlist/100 " />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="code" value="204" />
+              <option name="contentType" value="application/octet-stream" />
+              <option name="id" value="2163c14c-4cb0-4856-ab52-b02279a37df5" />
+              <option name="message" value="No Content" />
+              <option name="time" value="669" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1733045404459" />
+          <option name="id" value="4e7de0de-cd16-4e67-96b2-3f9901eadb96" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  &quot;assets&quot;: [&#10;    {&#10;      &quot;name&quot;: &quot;AMZN&quot;&#10;    },&#10;    {&#10;      &quot;name&quot;: &quot;NFLX&quot;&#10;    }&#10;  ]&#10;}&#10;&#10;" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="disabledAutoGeneratedHeaders">
+                <list>
+                  <option value="Content-Type" />
+                </list>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="2355a442-1c52-4aa2-b02e-1df93f18e940" />
+              <option name="method" value="PUT" />
+              <option name="name" value="Draft" />
+              <option name="queryParams">
+                <list>
+                  <queryParamState>
+                    <option name="disabled" value="true" />
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </queryParamState>
+                </list>
+              </option>
+              <option name="url" value="http://localhost:8888/pg/account/watchlist/100 " />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="code" value="204" />
+              <option name="contentType" value="application/octet-stream" />
+              <option name="id" value="4e7de0de-cd16-4e67-96b2-3f9901eadb96" />
+              <option name="message" value="No Content" />
+              <option name="time" value="16" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1733045560762" />
+          <option name="id" value="f97aa78b-9efb-4f1f-945e-19ca00468505" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  &quot;assets&quot;: [&#10;    {&#10;      &quot;name&quot;: &quot;AMZN&quot;&#10;    },&#10;    {&#10;      &quot;name&quot;: &quot;TSLA&quot;&#10;    }&#10;  ]&#10;}&#10;&#10;" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="disabledAutoGeneratedHeaders">
+                <list>
+                  <option value="Content-Type" />
+                </list>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="2355a442-1c52-4aa2-b02e-1df93f18e940" />
+              <option name="method" value="PUT" />
+              <option name="name" value="Draft" />
+              <option name="queryParams">
+                <list>
+                  <queryParamState>
+                    <option name="disabled" value="true" />
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </queryParamState>
+                </list>
+              </option>
+              <option name="url" value="http://localhost:8888/pg/account/watchlist/100 " />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="eyJtZXNzYWdlIjoiRmFpbGVkIHRvIHVwZGF0ZSB3YXRjaGxpc3QgZm9yIGFjY291bnRJZDogMTAwICIsInBhdGgiOiIvcGcvYWNjb3VudC93YXRjaGxpc3QvMTAwJTIwIn0=" />
+              <option name="bodyString" value="{&quot;message&quot;:&quot;Failed to update watchlist for accountId: 100 &quot;,&quot;path&quot;:&quot;/pg/account/watchlist/100%20&quot;}" />
+              <option name="code" value="500" />
+              <option name="contentType" value="text/plain" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="content-length" />
+                    <option name="value" value="98" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="f97aa78b-9efb-4f1f-945e-19ca00468505" />
+              <option name="message" value="Internal Server Error" />
+              <option name="prettyResponseType" value="TEXT" />
+              <option name="rawBodyString" value="{&quot;message&quot;:&quot;Failed to update watchlist for accountId: 100 &quot;,&quot;path&quot;:&quot;/pg/account/watchlist/100%20&quot;}" />
+              <option name="size" value="98" />
+              <option name="time" value="467" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+      </list>
+    </option>
+  </component>
+</project>
